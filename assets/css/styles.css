@@ -577,3 +577,6 @@ p{ margin:0; }
   .nav,.hero__app,.float,.marquee-wrap,.demo__card,.faq__cta{ display:none; }
   body{ background:#fff; color:#000; }
 }
+
+.demo__legal{ margin-top:18px; font-size:.86rem; color:var(--mute-2); }
+.demo__legal strong{ color:var(--mute); font-weight:600; letter-spacing:.02em; }

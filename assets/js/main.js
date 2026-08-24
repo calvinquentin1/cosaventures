@@ -10,7 +10,7 @@ const CONFIG = {
   // Business contact details (leave blank to hide the button)
   phone:     '',            // e.g. '+15551234567'
   phoneText: '',            // e.g. '(555) 123-4567'
-  email:     '',            // e.g. 'hello@cosacrm.com'
+  email:     'admin@cosaventures.com',   // e.g. 'hello@cosacrm.com'
 
   // Where the demo form posts. Leave blank for demo mode (shows a success
   // message without sending anything). Options:

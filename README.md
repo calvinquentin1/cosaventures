@@ -18,7 +18,7 @@ const CONFIG = {
   loginUrl:     '',   // your white-labelled GHL app URL, e.g. https://app.cosacrm.com
   phone:        '',   // '+15551234567'
   phoneText:    '',   // '(555) 123-4567'
-  email:        '',   // 'hello@cosacrm.com'
+  email:        'admin@cosaventures.com',
   formEndpoint: '',   // GHL inbound webhook / Formspree / your own endpoint
   thankYouUrl:  ''    // optional redirect after a successful submit
 };

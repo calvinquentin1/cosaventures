@@ -5,7 +5,7 @@
 
 const CONFIG = {
   // Your white-labelled GoHighLevel login URL, e.g. 'https://app.cosacrm.com'
-  loginUrl:  '',
+  loginUrl:  'https://app.cosacrm.com',
 
   // Business contact details (leave blank to hide the button)
   phone:     '',            // e.g. '+15551234567'

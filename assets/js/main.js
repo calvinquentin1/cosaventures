@@ -41,7 +41,7 @@ const CONFIG = {
         el.target = '_blank';
         el.rel = 'noopener';
       } else {
-        el.href = '#demo';                       // graceful fallback
+        el.hidden = true;                        // no portal URL set
       }
     });
 
